@@ -1,5 +1,6 @@
-Frequency-Division-Multiplexing---Modulation-and-Demodulation-using-Python
-Aim:
+#Frequency-Division-Multiplexing---Modulation-and-Demodulation-using-Python
+
+__Aim__:
 
 To generate an FDM signal by multiplexing multiple baseband message signals on different carrier frequencies, transmit (sum) them, optionally add channel noise, then recover each message by bandpass filtering and coherent demodulation in Python (Google Colab). Observe time & frequency domain signals and measure recovery quality.
 

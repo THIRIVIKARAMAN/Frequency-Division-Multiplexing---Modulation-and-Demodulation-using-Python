@@ -1,4 +1,4 @@
-#Frequency-Division-Multiplexing---Modulation-and-Demodulation-using-Python
+Frequency-Division-Multiplexing---Modulation-and-Demodulation-using-Python
 
 __Aim__:
 
